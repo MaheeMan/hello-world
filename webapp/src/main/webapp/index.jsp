@@ -12,7 +12,7 @@
   
   <div class="input-container">
     <i class="fa fa-envelope icon"></i>
-    <input class="input-field" type="text" placeholder="Gender" name="Gender">
+    <input class="input-field" type="text" placeholder="sex" name="sex">
   </div>
   
   <div class="input-container">
